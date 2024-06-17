@@ -54,3 +54,5 @@ Submit your document and GitHub repository link through the designated platform 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
 
 https://docs.google.com/document/d/1HHkAswXZSQokcOasDGpHm8VQOtqGZZKvTxkr4t6iHwg?usp=drive_fs
+
+The above link contains the answers to my assignment on dev setup.
